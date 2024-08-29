@@ -1,30 +1,36 @@
 ---
-title: 'BioHackEU23 report: Template for the very long title'
-title_short: 'BioHackEU23 #26: unknown chemical substances'
+title: 'BioHackathon 2024 report: Ruby coding with help of LLMs'
+title_short: 'BioHackathon 2024 #26: Ruby coding with LLMs'
 tags:
-  - cheminformatics
-  - PubChem
-  - unknown chemical substances
+  - bioinformatics
+  - Ruby
+  - LLM
 authors:
-  - name: First Author
+  - name: Naohisa Goto
+    orcid: 0000-0000-0000-0000
     affiliation: 1
-  - name: Last Author
+  - name: Second Author
     orcid: 0000-0000-0000-0000
     affiliation: 2
+  - name: Last Author
+    orcid: 0000-0000-0000-0000
+    affiliation: 3
 affiliations:
-  - name: First Affiliation
+  - name: Bioinformatics Center, Research Institute for Microbial Informatics, Osaka University, Japan
     index: 1
   - name: Second Affiliation
     index: 2
-date: 8 November 2023
+  - name: Third Affiliation
+    index: 3
+date: 30 August 2024
 cito-bibliography: paper.bib
-event: BH23EU
-biohackathon_name: "BioHackathon Europe 2023"
-biohackathon_url:   "https://biohackathon-europe.org/"
-biohackathon_location: "Barcelona, Spain, 2023"
+event: BH24JA
+biohackathon_name: "DBCLS BioHackathon 2024"
+biohackathon_url:   "http://2024.biohackathon.org/"
+biohackathon_location: "Fukushima, Japan, 2024"
 group: Project 26
 # URL to project git repo --- should contain the actual paper.md:
-git_url: https://github.com/biohackrxiv/publication-template
+git_url: https://github.com/biohackathon-japan/bh24-ruby-coding-with-help-of-llms.git
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
 authors_short: First Author \emph{et al.}
@@ -33,7 +39,7 @@ authors_short: First Author \emph{et al.}
 
 # Introduction
 
-As part of the BioHackathon Europe 2023, we here report...
+As part of the DBCLS BioHackathon 2024, we here report...
 
 # Formatting
 
